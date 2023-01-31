@@ -6,6 +6,6 @@ $msg = "First line of text\nSecond line of text";
 $msg = wordwrap($msg,70);
 
 // send email
-mail("ymine0000001@gmail.com","My subject",$msg);
+mail("test@gmail.com","My subject",$msg);
 ?>
 Hello
